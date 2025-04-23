@@ -1,1 +1,2 @@
 # Citizen-Charter
+This project introduces an AI-powered, cloud-based platform designed to ensure validated adherence to the Citizens' Charter norms across all public interfaces and customer touchpoints in the Department of Posts (DoP). By leveraging advanced technologies such as real-time tracking, AI-driven analytics, and automated alerts, our solution aims to significantly enhance the efficiency, transparency, and accountability of service delivery across the DoP's offices.
